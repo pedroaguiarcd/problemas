@@ -1,0 +1,18 @@
+n1=int(input('digite um numero: '))
+n2=int(input('digite outro: '))
+s=n1+n2
+d=n1/n2
+m=n1*n2
+p=n1**n2
+di=n1//n2
+r=n1**0.5
+sd=n1%n2
+print(f'''
+    a soma é: {s}
+    o produto é: {d} 
+    a multiplicaçao é: {m}
+    a potencia é: {p}
+    a divisao inteira é: {di}
+    a raiz é: {r}
+    a sobra da divisao é: {sd}
+''')

@@ -1,0 +1,10 @@
+import random
+# print(f'numero aleatorio: {r}')
+
+print
+r=float(random.uniform)
+print(f'texto aqui: {r:.2f}')
+
+# import random
+# n= random.randint(0,30)
+# print(f'numero aleatorio {n}')

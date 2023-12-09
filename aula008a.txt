@@ -1,0 +1,8 @@
+import math
+import emoji
+
+n=int(input('digite um numero: '))
+
+r=math.sqrt(n)
+
+print(f'a raiz do numero{n} é: {r:.2f}')

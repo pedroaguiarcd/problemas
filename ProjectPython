@@ -1,0 +1,10 @@
+print('hello, world!')
+nome=input('Digite Seu Nome:')
+exclamaçao='!'
+print('É um prazer te conhecer,',nome+exclamaçao)
+nome=input('Digite seu nome:')
+print('boas vindas, {}!'.format(nome))
+
+n1=int(input('digite o primeiro numero:'))
+n2=int(input('digite o segundo numero:'))
+s=n1 + n2

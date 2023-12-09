@@ -1,0 +1,18 @@
+ordem de precedencia
+1= ()
+
+2= **
+
+3= *, /, // e %
+
+4= +, -
+
+
+operadores aritmeticos
++ adiçao
+- subtraçao
+* multiplicaçao
+/ divisao
+** potencia
+// divisao inteira
+% resto da divisao

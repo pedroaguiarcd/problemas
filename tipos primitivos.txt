@@ -1,0 +1,16 @@
+int= numeros inteiros. 
+ex:7, -4, 0, 9875
+
+
+
+
+float= numeros reais, ou numeros de ponto flutuante.
+ex:4.5, 0.076, -15.223, 3.14, 7.0
+
+
+bool= valores logicos, ou boleanos.(Só aceita 2 valores)
+ex:True(usar T maiusculo), False(usar F maiusculo)
+
+
+str= valores caracteres, ou string
+ex:'Olá', '7.5', ''.

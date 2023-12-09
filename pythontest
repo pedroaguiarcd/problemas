@@ -1,0 +1,9 @@
+n1=int(input('digite um valor:'))
+n2=int(input('digite outro:'))
+soma=n1-n2
+#print('O resultado é:',soma)
+print('A soma entre {} e {} vale {}'.format(n1,n2,soma))
+n3=int(input('digite seu numero:'))
+n4=int(input('novamente:'))
+soma2=n3+n4
+print('a soma de {}, com {} é: {}'.format(n3,n4,soma2))

@@ -1,0 +1,6 @@
+m=int(input('quantos metros?'))
+
+#a conversão de metros para milimetros: 
+print(f'A conversão de metros para milimetros é: {m*100}\n A conversão de metros para melimetros é:{m/1000}')
+
+        

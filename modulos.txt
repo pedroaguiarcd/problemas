@@ -1,0 +1,8 @@
+modulos
+
+random: escolhe um numero aleatorio
+
+math: usa-se principios da matematica, como a raiz
+(sqtr), e o arredondamento para cima e vise-versa
+(math.ceil)
+

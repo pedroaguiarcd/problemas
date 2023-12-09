@@ -1,0 +1,10 @@
+var1=input('digite um numero: ')
+var2=input('digite outro: ')
+var3=input("ultima vez: ")
+var4=(var1+var2+var3)
+print(f'a soma das 3 variaveis resulta em: {var4}')
+maior=max(var1,var2,var3)
+menor=min(var1,var2,var3)
+print(f'o maior numero é: {maior}')
+print(f'o menor numero é: {menor}')
+

@@ -1,0 +1,17 @@
+c1 = input('coloque algo:')
+c2 = input('colque mais alguma coisa:')
+c3= input('ultima vez:')
+#print('{} {} {}'.format(c1,c2,c3))
+#print(type(c1))
+#print(type(c2))
+#print(type(c3))
+print(c1.isnumeric())
+print(c2.isalpha())
+print(c3.isupper())
+
+
+n1=float(input('digite um numero'))
+n2=float(input('digite outro numero'))
+s=n1+n2
+print('A soma de {} e {}, resulta em: {}'.format(n1,n2,s))
+sss

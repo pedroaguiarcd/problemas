@@ -1,0 +1,7 @@
+pergunta=input('qual é o melhor filme do Shrek?')
+if pergunta=='shrek 1' or pergunta=='shrek2'
+print('resposta correta')
+elif pergunta=='shrek 3'or pergunta=='shrek 4'
+print('resposta incorreta')
+else:
+print('reposta incorreta')

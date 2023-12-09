@@ -1,0 +1,28 @@
+print('hello world!')
+print('9'+'8')
+nome='meu nome é pedro'
+old='tenho 16 anos'
+Weight=' e peso 74.6 kilos'
+print(nome,old,Weight)
+
+nome1='sou pedro'
+nome2='gosto de bolo de cenoura'
+print(nome1,nome2)
+nome=input('qual seu nome?')
+old=input('qual sua idade?') 
+Weight=input('qual seu peso?')
+nome=input('qual seu nome?')
+print('boas vindas',nome)
+nome=input('qual seu nome?')
+print('Olá',nome,'prazer em te conhecer')
+nome = input ('Qual seu nome pequeno repolho?')
+
+print ('Bem, agora voce faz parte de uma família, seja bem vindo ao clã dos repolhos. Agora você é um de nós, VIVA A SOCIEDADE REPOLHO!')
+dia=25
+mes='fevereiro'
+ano=2007
+print('Olá voçe nasceu no dia',dia,'do mes de',mes,'e no ano de',ano)
+
+numero1=6
+numero2=3
+print(numero1+numero2)s
